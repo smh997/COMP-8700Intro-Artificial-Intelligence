@@ -1,2 +1,2 @@
-# COMP-8700Intro-Artificial-Intelligence
+# Intro Artificial Intelligence Assignments
 A repository for the Course COMP 8700 Assignments. 
