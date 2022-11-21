@@ -1,0 +1,41 @@
+Ply: 0, MAX: node: A
+Ply: 0, MAX: node: A, tried action a1
+Ply: 1, MAX: node: B
+Ply: 1, MIN: node: B, tried action b1
+Ply: 2, MAX: node: E
+Ply: 2, MAX: node: E is terminal
+Ply: 1, MIN: node: B, tried action b1 and the result value is 3 
+Ply: 1, MIN: node: B, tried action b2
+Ply: 2, MAX: node: F
+Ply: 2, MAX: node: F is terminal
+Ply: 1, MIN: node: B, tried action b2 and the result value is 12
+Ply: 1, MIN: node: B, tried action b3
+Ply: 2, MAX: node: G
+Ply: 2, MAX: node: G is terminal
+Ply: 1, MIN: node: B, tried action b3 and the result value is 8 
+Ply: 1, MAX: node: B is done
+Ply: 0, MAX: node: A, tried action a1 and the result value is 3 
+Ply: 0, MAX: node: A, tried action a2
+Ply: 1, MAX: node: C
+Ply: 1, MIN: node: C, tried action c1
+Ply: 2, MAX: node: H
+Ply: 2, MAX: node: H is terminal
+Ply: 1, MIN: node: C, tried action c1 and the result value is 2
+Ply: 0, MAX: node: A, tried action a2 and the result value is 2
+Ply: 0, MAX: node: A, tried action a3
+Ply: 1, MAX: node: D
+Ply: 1, MIN: node: D, tried action d1
+Ply: 2, MAX: node: K
+Ply: 2, MAX: node: K is terminal
+Ply: 1, MIN: node: D, tried action d1 and the result value is 14
+Ply: 1, MIN: node: D, tried action d2
+Ply: 2, MAX: node: L
+Ply: 2, MAX: node: L is terminal
+Ply: 1, MIN: node: D, tried action d2 and the result value is 5
+Ply: 1, MIN: node: D, tried action d3
+Ply: 2, MAX: node: M
+Ply: 2, MAX: node: M is terminal
+Ply: 1, MIN: node: D, tried action d3 and the result value is 2
+Ply: 0, MAX: node: A, tried action a3 and the result value is 2
+Ply: 0, MAX: node: A is done
+Best acrion for MAX with the final utility value: ('a1', 3)
