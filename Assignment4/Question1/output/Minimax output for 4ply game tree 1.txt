@@ -1,0 +1,123 @@
+Ply: 0, MAX: node: A
+Ply: 0, MAX: node: A, tried action a1
+Ply: 1, MAX: node: B
+Ply: 1, MIN: node: B, tried action b1
+Ply: 2, MAX: node: D
+Ply: 2, MAX: node: D, tried action d1
+Ply: 3, MAX: node: H
+Ply: 3, MIN: node: H, tried action h1
+Ply: 4, MAX: node: P
+Ply: 4, MAX: node: P is terminal
+Ply: 3, MIN: node: H, tried action h1 and the result value is 16
+Ply: 3, MIN: node: H, tried action h2
+Ply: 4, MAX: node: Q
+Ply: 4, MAX: node: Q is terminal
+Ply: 3, MIN: node: H, tried action h2 and the result value is 19
+Ply: 3, MAX: node: H is done
+Ply: 2, MAX: node: D, tried action d1 and the result value is 16
+Ply: 2, MAX: node: D, tried action d2
+Ply: 3, MAX: node: I
+Ply: 3, MIN: node: I, tried action i1
+Ply: 4, MAX: node: R
+Ply: 4, MAX: node: R is terminal
+Ply: 3, MIN: node: I, tried action i1 and the result value is 14
+Ply: 3, MIN: node: I, tried action i2
+Ply: 4, MAX: node: S
+Ply: 4, MAX: node: S is terminal
+Ply: 3, MIN: node: I, tried action i2 and the result value is 10
+Ply: 3, MAX: node: I is done
+Ply: 2, MAX: node: D, tried action d2 and the result value is 10
+Ply: 2, MAX: node: D is done
+Ply: 1, MIN: node: B, tried action b1 and the result value is 16
+Ply: 1, MIN: node: B, tried action b2
+Ply: 2, MAX: node: E
+Ply: 2, MAX: node: E, tried action e1
+Ply: 3, MAX: node: J
+Ply: 3, MIN: node: J, tried action j1
+Ply: 4, MAX: node: T
+Ply: 4, MAX: node: T is terminal
+Ply: 3, MIN: node: J, tried action j1 and the result value is 13
+Ply: 3, MIN: node: J, tried action j2
+Ply: 4, MAX: node: U
+Ply: 4, MAX: node: U is terminal
+Ply: 3, MIN: node: J, tried action j2 and the result value is 1
+Ply: 3, MAX: node: J is done
+Ply: 2, MAX: node: E, tried action e1 and the result value is 1
+Ply: 2, MAX: node: E, tried action e2
+Ply: 3, MAX: node: K
+Ply: 3, MIN: node: K, tried action k1
+Ply: 4, MAX: node: V
+Ply: 4, MAX: node: V is terminal
+Ply: 3, MIN: node: K, tried action k1 and the result value is 10
+Ply: 3, MIN: node: K, tried action k2
+Ply: 4, MAX: node: W
+Ply: 4, MAX: node: W is terminal
+Ply: 3, MIN: node: K, tried action k2 and the result value is 8
+Ply: 3, MAX: node: K is done
+Ply: 2, MAX: node: E, tried action e2 and the result value is 8
+Ply: 2, MAX: node: E is done
+Ply: 1, MIN: node: B, tried action b2 and the result value is 8
+Ply: 1, MAX: node: B is done
+Ply: 0, MAX: node: A, tried action a1 and the result value is 8
+Ply: 0, MAX: node: A, tried action a2
+Ply: 1, MAX: node: C
+Ply: 1, MIN: node: C, tried action c1
+Ply: 2, MAX: node: F
+Ply: 2, MAX: node: F, tried action f1
+Ply: 3, MAX: node: L
+Ply: 3, MIN: node: L, tried action l1
+Ply: 4, MAX: node: X
+Ply: 4, MAX: node: X is terminal
+Ply: 3, MIN: node: L, tried action l1 and the result value is 17
+Ply: 3, MIN: node: L, tried action l2
+Ply: 4, MAX: node: Y
+Ply: 4, MAX: node: Y is terminal
+Ply: 3, MIN: node: L, tried action l2 and the result value is 3
+Ply: 3, MAX: node: L is done
+Ply: 2, MAX: node: F, tried action f1 and the result value is 3
+Ply: 2, MAX: node: F, tried action f2
+Ply: 3, MAX: node: M
+Ply: 3, MIN: node: M, tried action m1
+Ply: 4, MAX: node: Z
+Ply: 4, MAX: node: Z is terminal
+Ply: 3, MIN: node: M, tried action m1 and the result value is 15
+Ply: 3, MIN: node: M, tried action m2
+Ply: 4, MAX: node: AA
+Ply: 4, MAX: node: AA is terminal
+Ply: 3, MIN: node: M, tried action m2 and the result value is 15
+Ply: 3, MAX: node: M is done
+Ply: 2, MAX: node: F, tried action f2 and the result value is 15
+Ply: 2, MAX: node: F is done
+Ply: 1, MIN: node: C, tried action c1 and the result value is 15
+Ply: 1, MIN: node: C, tried action c2
+Ply: 2, MAX: node: G
+Ply: 2, MAX: node: G, tried action g1
+Ply: 3, MAX: node: N
+Ply: 3, MIN: node: N, tried action n1
+Ply: 4, MAX: node: BB
+Ply: 4, MAX: node: BB is terminal
+Ply: 3, MIN: node: N, tried action n1 and the result value is 17
+Ply: 3, MIN: node: N, tried action n2
+Ply: 4, MAX: node: CC
+Ply: 4, MAX: node: CC is terminal
+Ply: 3, MIN: node: N, tried action n2 and the result value is 19
+Ply: 3, MAX: node: N is done
+Ply: 2, MAX: node: G, tried action g1 and the result value is 17
+Ply: 2, MAX: node: G, tried action g2
+Ply: 3, MAX: node: O
+Ply: 3, MIN: node: O, tried action o1
+Ply: 4, MAX: node: DD
+Ply: 4, MAX: node: DD is terminal
+Ply: 3, MIN: node: O, tried action o1 and the result value is 5
+Ply: 3, MIN: node: O, tried action o2
+Ply: 4, MAX: node: EE
+Ply: 4, MAX: node: EE is terminal
+Ply: 3, MIN: node: O, tried action o2 and the result value is 15
+Ply: 3, MAX: node: O is done
+Ply: 2, MAX: node: G, tried action g2 and the result value is 5
+Ply: 2, MAX: node: G is done
+Ply: 1, MIN: node: C, tried action c2 and the result value is 17
+Ply: 1, MAX: node: C is done
+Ply: 0, MAX: node: A, tried action a2 and the result value is 15
+Ply: 0, MAX: node: A is done
+Best acrion for MAX with the final utility value: ('a2', 15)

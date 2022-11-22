@@ -1,0 +1,75 @@
+Ply: 0, MAX: node: A
+Ply: 0, MAX: node: A, tried action a1
+Ply: 1, MIN: node: B
+Ply: 1, MIN: node: B, tried action b1
+Ply: 2, MAX: node: D
+Ply: 2, MAX: node: D, tried action d1
+Ply: 3, MIN: node: H
+Ply: 3, MIN: node: H, tried action h1
+Ply: 4, MAX: node: P
+Ply: 4, MAX: node: P is terminal
+Ply: 3, MIN: node: H, tried action h1 and the result value is 23
+Ply: 3, MIN: node: H, tried action h2
+Ply: 4, MAX: node: Q
+Ply: 4, MAX: node: Q is terminal
+Ply: 3, MIN: node: H, tried action h2 and the result value is 19
+Ply: 3, MIN: node: H is done
+Ply: 2, MAX: node: D, tried action d1 and the result value is 19
+Ply: 2, MAX: node: D, tried action d2
+Ply: 3, MIN: node: I
+Ply: 3, MIN: node: I, tried action i1
+Ply: 4, MAX: node: R
+Ply: 4, MAX: node: R is terminal
+Ply: 3, MIN: node: I, tried action i1 and the result value is 23
+Ply: 3, MIN: node: I, tried action i2
+Ply: 4, MAX: node: S
+Ply: 4, MAX: node: S is terminal
+Ply: 3, MIN: node: I, tried action i2 and the result value is 10
+PRUNE!: Ply: 3, MIN: node: I is done as v = 10 is less than or equal alpha = 19
+Ply: 2, MAX: node: D, tried action d2 and the result value is 10
+Ply: 2, MAX: node: D is done
+Ply: 1, MIN: node: B, tried action b1 and the result value is 19
+Ply: 1, MIN: node: B, tried action b2
+Ply: 2, MAX: node: E
+Ply: 2, MAX: node: E, tried action e1
+Ply: 3, MIN: node: J
+Ply: 3, MIN: node: J, tried action j1
+Ply: 4, MAX: node: T
+Ply: 4, MAX: node: T is terminal
+Ply: 3, MIN: node: J, tried action j1 and the result value is 27
+Ply: 3, MIN: node: J, tried action j2
+Ply: 4, MAX: node: U
+Ply: 4, MAX: node: U is terminal
+Ply: 3, MIN: node: J, tried action j2 and the result value is 24
+Ply: 3, MIN: node: J is done
+Ply: 2, MAX: node: E, tried action e1 and the result value is 24
+PRUNE!: Ply: 2, MAX: node: E is done as v = 24 is greater than or equal beta = 19
+Ply: 1, MIN: node: B, tried action b2 and the result value is 24
+Ply: 1, MIN: node: B is done
+Ply: 0, MAX: node: A, tried action a1 and the result value is 19
+Ply: 0, MAX: node: A, tried action a2
+Ply: 1, MIN: node: C
+Ply: 1, MIN: node: C, tried action c1
+Ply: 2, MAX: node: F
+Ply: 2, MAX: node: F, tried action f1
+Ply: 3, MIN: node: L
+Ply: 3, MIN: node: L, tried action l1
+Ply: 4, MAX: node: X
+Ply: 4, MAX: node: X is terminal
+Ply: 3, MIN: node: L, tried action l1 and the result value is 11
+PRUNE!: Ply: 3, MIN: node: L is done as v = 11 is less than or equal alpha = 19
+Ply: 2, MAX: node: F, tried action f1 and the result value is 11
+Ply: 2, MAX: node: F, tried action f2
+Ply: 3, MIN: node: M
+Ply: 3, MIN: node: M, tried action m1
+Ply: 4, MAX: node: Z
+Ply: 4, MAX: node: Z is terminal
+Ply: 3, MIN: node: M, tried action m1 and the result value is 8
+PRUNE!: Ply: 3, MIN: node: M is done as v = 8 is less than or equal alpha = 19
+Ply: 2, MAX: node: F, tried action f2 and the result value is 8
+Ply: 2, MAX: node: F is done
+Ply: 1, MIN: node: C, tried action c1 and the result value is 11
+PRUNE!: Ply: 1, MIN: node: C is done as v = 11 is less than or equal alpha = 19
+Ply: 0, MAX: node: A, tried action a2 and the result value is 11
+Ply: 0, MAX: node: A is done
+Best acrion for MAX with the final utility value: ('a1', 19)
