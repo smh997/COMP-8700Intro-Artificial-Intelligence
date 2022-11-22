@@ -1,9 +1,9 @@
 from utils import Game, State
 
 def min_value(game, state):
-    print(f'Ply: {state.ply}, MAX: node: {state.name}')
+    print(f'Ply: {state.ply}, MIN: node: {state.name}')
     if game.is_terminal(state):
-        print(f'Ply: {state.ply}, MAX: node: {state.name} is terminal')
+        print(f'Ply: {state.ply}, MIN: node: {state.name} is terminal')
         return (game.utility(state, 1), None)
     inf = float('inf')
     v, move = inf, inf
